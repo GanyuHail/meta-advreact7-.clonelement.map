@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/meta-advreact7-.clonelement.map/static/css/main.f855e6bc.css",
-    "main.js": "/meta-advreact7-.clonelement.map/static/js/main.b0797bd8.js",
+    "main.css": "/meta-advreact7-.clonelement.map/static/css/main.18fa3cf9.css",
+    "main.js": "/meta-advreact7-.clonelement.map/static/js/main.d6d2135a.js",
     "static/js/787.c6184468.chunk.js": "/meta-advreact7-.clonelement.map/static/js/787.c6184468.chunk.js",
-    "static/media/logo.svg": "/meta-advreact7-.clonelement.map/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/meta-advreact7-.clonelement.map/index.html",
-    "main.f855e6bc.css.map": "/meta-advreact7-.clonelement.map/static/css/main.f855e6bc.css.map",
-    "main.b0797bd8.js.map": "/meta-advreact7-.clonelement.map/static/js/main.b0797bd8.js.map",
+    "main.18fa3cf9.css.map": "/meta-advreact7-.clonelement.map/static/css/main.18fa3cf9.css.map",
+    "main.d6d2135a.js.map": "/meta-advreact7-.clonelement.map/static/js/main.d6d2135a.js.map",
     "787.c6184468.chunk.js.map": "/meta-advreact7-.clonelement.map/static/js/787.c6184468.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b0797bd8.js"
+    "static/css/main.18fa3cf9.css",
+    "static/js/main.d6d2135a.js"
   ]
 }
